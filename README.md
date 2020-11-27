@@ -2,7 +2,7 @@
 Ecommerce web application using Angular9 | Node.js | Express.js | MongoDB   (MEAN Stack)
 
 ## Objective
-* The goal is to build a Ecommerce web application where users can buy and sell products online.
+* The goal is to build a Ecommerce web application where users can browse and buy products online.
 * This app contains 2 pannels for admin and for user.Admin can add Products with images and can add Users. Users can add item in cart and can place the order.    
 
 ## System Design
